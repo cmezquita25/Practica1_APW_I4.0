@@ -1,0 +1,15 @@
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\API_Peliculas.Domain.deps.json
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\API_Peliculas.Domain.runtimeconfig.json
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\API_Peliculas.Domain.runtimeconfig.dev.json
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\API_Peliculas.Domain.dll
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\ref\API_Peliculas.Domain.dll
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\bin\Debug\net5.0\API_Peliculas.Domain.pdb
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.AssemblyInfo.cs
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.dll
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\ref\API_Peliculas.Domain.dll
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.pdb
+C:\Users\cmezq\Desktop\Practica1\API_Peliculas\API_Peliculas.Domain\obj\Debug\net5.0\API_Peliculas.Domain.genruntimeconfig.cache
