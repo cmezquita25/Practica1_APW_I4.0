@@ -10,6 +10,6 @@ namespace API_Peliculas.Domain.dtos.response
         public int Id {get; set;}
         public string InformacionPelicula {get; set;}
         public string RatingPuntuacion {get; set;}
-        public string FechaPublic { get; set; }
+        public string FechaDePublicacion { get; set; }
     }
 }
